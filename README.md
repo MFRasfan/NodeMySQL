@@ -17,7 +17,7 @@ Run on Terminal
 node bamazonCustomer.js
 
 
-![Alt text](/Images/Whattobuy)
+![Alt text](/Images/Whattobuy.png)
 
  
 
