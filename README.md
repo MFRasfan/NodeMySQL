@@ -28,7 +28,7 @@ Type on Terminal
 Type the Product Name from the Populated List
 
 
- ![Alt text](/Images/Whattobuy)
+ ![Alt text](/Images/Whattobuy.png)
 
 
 3 . Choose How Many You would Like to Buy
@@ -37,7 +37,7 @@ Type on Terminal
 
 Type the Quantity
 
-![Alt text](/Images/Howmanytobuy)
+![Alt text](/Images/Howmanytobuy.png)
 
 3 . Finally You will see The Total Cost of What you Bought
 
@@ -45,4 +45,4 @@ Display on Terminal
 
 Total Cost
 
-![Alt text](/Images/totalPrice)
+![Alt text](/Images/totalPrice.png)
